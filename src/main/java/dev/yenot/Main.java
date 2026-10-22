@@ -90,7 +90,7 @@ public class Main {
 
     }
 
-    // 3. Метод воспроизведения (ты его уже отлично написал ранее)
+    // 3. Метод воспроизведения
     private void playAudio(String fileName) {
         String resourcePath = "/audio/" + fileName;
 
