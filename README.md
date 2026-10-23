@@ -14,8 +14,5 @@
    + Запустите класс Main.java.
    + Для остановки приложения нажмите Enter в окне консоли.
      
-2. Через командную строку (Maven):
-   ```bash
-   mvn clean compile exec:java -Dexec.mainClass="dev.yenot.Main"
-   ```
+
    
